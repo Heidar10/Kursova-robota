@@ -1,0 +1,19 @@
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\bin\Debug\Курсова робота.exe.config
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\bin\Debug\Курсова робота.exe
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\bin\Debug\Курсова робота.pdb
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова робота.csprojAssemblyReference.cache
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова_робота.Form1.resources
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова_робота.Properties.Resources.resources
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова робота.csproj.GenerateResource.cache
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова робота.csproj.CoreCompileInputs.cache
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова робота.exe
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова робота.pdb
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова_робота.ProductForm.resources
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\bin\Debug\PC assembly.mdf
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\bin\Debug\PC assembly_log.ldf
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова_робота.CATEGORYFORM.resources
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова_робота.SellerForm.resources
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\bin\Debug\Guna.UI2.dll
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова_робота.CATEGORYFORM1.resources
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова робота.csproj.CopyComplete
+C:\Users\geyda\source\repos\Курсова робота\Курсова робота\obj\Debug\Курсова_робота.SellingForm.resources
